@@ -65,7 +65,10 @@ src/
    npm install
    ```
 
-3. **Run the development server**
+3. **Enter your Email API FROM ANY WEBSITE LIKE FROM WEB3FORMS**
+  
+
+4. **Run the development server**
    ```bash
    npm run dev
    ```
@@ -175,7 +178,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Built by a career changer learning React and web development fundamentals.
+Built by a Sumit Kumar through Greatstacks lectures,learning React and web development fundamentals.
 
 ---
 
@@ -183,12 +186,9 @@ Built by a career changer learning React and web development fundamentals.
 
 ---
 
-### 🔗 Links
+### 🔗 Link
 
-- **Live Demo:** [Add live link here]
-- **Portfolio:** [Add your portfolio link]
-- **LinkedIn:** [Add your LinkedIn profile]
-
+- **LinkedIn:** www.linkedin.com/in/sumit-kumar-6a0943283
 ---
 
 **Happy coding! 🚀**
