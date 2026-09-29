@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Libertinus+Math&family=Manrope:wght@200..800&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Scoutie+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+* {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  cursor: none;
+}
+
+@theme {
+  --color-primary: #5044e5;
+}
